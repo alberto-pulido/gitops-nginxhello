@@ -1,0 +1,1 @@
+{"jobID":"658a1d91-4568-65ec-f53f-71889de122c6","spec":{"type":"policy","cause":{"Message":"","User":"Pulido Moyano, Alberto (SanTech) \u003calberto.pulido@santander.co.uk\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.19.x"},"remove":{}}}},"result":null}
